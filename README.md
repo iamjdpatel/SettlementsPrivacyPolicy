@@ -1,13 +1,12 @@
-<html lang="en"><head>
-
- 	<meta charset="utf-8">
+<html>
+ <head>
  	<title>Settlements - Privacy Policy</title>
    
     <!-- Mobile viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  
+
 </head>
-<body id="privacy">
+<body>
 
     <div class="inset slim" style="margin-top:80px;">
 
