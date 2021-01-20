@@ -29,8 +29,5 @@
 
 
     </div>
-    
-    <script src="../assets/js/nav.js"></script> <!-- used for the naviagtion bar -->
-    
-
+   
 </body></html>
