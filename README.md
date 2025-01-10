@@ -1,2 +1,2 @@
-Settlements Privacy Policy
+Settlements Privacy Policy and Terms of Service
    
